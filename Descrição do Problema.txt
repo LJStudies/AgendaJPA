@@ -1,0 +1,18 @@
+Descrição do Problema da Agenda
+
+- Criar uma agenda de contatos cadastrando telefone, email e grupo.
+
+Restrições
+- Cada contato tem apenas um email.
+- Cada contato por ter vários telefones.
+- Um contato pode pertencer a mais de um grupo.
+
+Funcionalidades
+- Cadastrar contato;
+- Buscar contato;
+- Alterar contato;
+- Excluir contato;
+- Adicionar Grupos;
+- Excluir Grupos;
+- Ver contatos em um grupo;
+- Não deve ser possível excluir grupos q ainda tenha contatos associados.
